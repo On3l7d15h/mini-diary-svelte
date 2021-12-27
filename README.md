@@ -1,4 +1,4 @@
-![preview de la página]("../public/preview.png")
+![preview de la página](./public/preview.png)
 
 ### Hey There!
 ## Por aquí les dejo mi primer projecto con el framework de Svelte! Disfruten! 
